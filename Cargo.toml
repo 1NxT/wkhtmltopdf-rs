@@ -16,7 +16,7 @@ url = "2.1"
 lazy_static = "1.4"
 log = "0.4"
 quick-error = "1.1.0"
-thread-id = "3.3"
+thread-id = "4.2.1"
 
 [dev-dependencies]
 env_logger = "0.7"
